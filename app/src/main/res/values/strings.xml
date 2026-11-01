@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TgUnlocker</string>
+    <string name="status_stopped">Service Stopped</string>
+    <string name="status_running">Active • Connected</string>
+
+    <string name="btn_start">Start Tunnel</string>
+    <string name="btn_stop">Stop Tunnel</string>
+    <string name="btn_setup_telegram">Set up in Telegram</string>
+
+    <string name="section_basic">Basic Settings</string>
+    <string name="autostart_title">Start on boot</string>
+    <string name="autostart_desc">Run proxy automatically after device reboot</string>
+    <string name="battery_opt_title">Battery optimization</string>
+    <string name="battery_opt_desc">Request exemption from system sleep killers</string>
+
+    <string name="section_advanced">Advanced Settings</string>
+    <string name="port_label">Local Port</string>
+
+    <string name="section_logs">Live Logs</string>
+    <string name="btn_clear_logs">Clear</string>
+    <string name="btn_copy_logs">Copy</string>
+
+</resources>
